@@ -1,6 +1,6 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This is a simple python code to generate har files for web pages. Web Page urls can be data driven from the excel file provided.
 
 ### What is this repository for? ###
 
