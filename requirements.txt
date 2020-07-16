@@ -1,0 +1,5 @@
+selenium == "*"
+browsermob-proxy == "*"
+pandas == "*"
+xlrd == "*"
+hargenerator-py == "*"
